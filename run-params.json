@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "name"             : "mediabot",
+    "script"           : "bin/hubot",
+    "exec_interpreter" : "sh",
+    "args"             : "--adapter slack",
+    "watch"            : ["package.json", "external-scripts.json", "scripts/", "hubot-scripts.json", "bin/hubot"]
+  }]
+}
