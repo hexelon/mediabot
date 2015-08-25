@@ -20,7 +20,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-thesimpsons": "^1.1.4",
-    "hubot-wolfram": "^1.0.8"
+    "hubot-wolfram": "^1.0.8",
+    "jsdom": "^6.2.0"
   },
   "engines": {
     "node": "0.10.x"
