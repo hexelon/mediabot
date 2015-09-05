@@ -20,6 +20,8 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
+    "hubot-standup": "^0.1.8",
+    "hubot-standup-alarm": "0.0.6",
     "hubot-thesimpsons": "^1.1.4",
     "hubot-wolfram": "^1.0.8",
     "jsdom": "^3.1.2"
