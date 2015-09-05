@@ -12,5 +12,7 @@
   "hubot-thesimpsons",
   "hubot-9gag",
   "hubot-wolfram",
-  "hubot-meme"
+  "hubot-meme",
+  "hubot-standup-alarm",
+  "hubot-standup"
 ]
