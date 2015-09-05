@@ -14,5 +14,6 @@
   "hubot-wolfram",
   "hubot-meme",
   "hubot-standup-alarm",
-  "hubot-standup"
+  "hubot-standup",
+  "jobot-brain-file"
 ]
