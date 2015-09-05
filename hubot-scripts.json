@@ -6,6 +6,5 @@
   "xkcd.coffee",
   "git-help.coffee",
   "sloth-me.coffee",
-  "jenkins.coffee",
-  "auth.coffee"
+  "jenkins.coffee"
 ]
