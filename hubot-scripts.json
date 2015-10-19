@@ -6,5 +6,6 @@
   "xkcd.coffee",
   "git-help.coffee",
   "sloth-me.coffee",
-  "jenkins.coffee"
+  "jenkins.coffee",
+  "android-os.coffee"
 ]
